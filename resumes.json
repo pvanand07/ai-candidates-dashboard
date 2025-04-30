@@ -41,7 +41,7 @@
     "phone": "+91  xxxx xxxxxx",
     "github_url": "https://github.com/nithin200417",
     "linkedin_url": "https://linkedin.com/in/nithin200417",
-    "location": "Thanjavur, India",
+    "location": "Thanjavur, Tamil Nadu",
     "location_coordinates": {
       "latitude": 10.786627,
       "longitude": 79.13857
@@ -52,8 +52,8 @@
         "name": "BoneAge Assessment DL",
         "description": "Extracted features using XceptionNet and subsequently pass them to various ML models to achieve an impressive MAE of 1.5 years. Augmentation using mean imputation helped in significant reduction of MAE by over 1 year.",
         "skills": [
-          "Deep Learning",
-          "Machine Learning"
+          "Machine Learning",
+          "Deep Learning"
         ],
         "url": ""
       },
@@ -61,8 +61,8 @@
         "name": "PCOS Detection from Ultrasound Images",
         "description": "Segment Anything Model (SAM), Generative Adversarial Network (GAN) helped achieve over 99% accuracy. GAN helped achieve excellent high-quality data which subsequently fostered the models predictions.",
         "skills": [
-          "Generative Adversarial Networks",
-          "Machine Learning"
+          "Machine Learning",
+          "Generative Adversarial Networks"
         ],
         "url": ""
       },
@@ -70,8 +70,8 @@
         "name": "Plant Leaf Disease Classification",
         "description": "Preprocessed Plant Village Dataset with PCFAN and CLAHE, then applied YOLOv9 and ShuffleNetv2 for improved plant disease detection. Experimented using various pre-trained models and hyperparameters elevating the accuracy to 99.8%.",
         "skills": [
-          "Computer Vision",
-          "Machine Learning"
+          "Machine Learning",
+          "Computer Vision"
         ],
         "url": ""
       },
@@ -160,178 +160,6 @@
     "source_file": "01RajSharma resume (1) - raj sharma.pdf",
     "file_hash": "b0f1cbee42d4dcef0a1d8965d88aa2bc"
   },
-  "0fa7": {
-    "name": "ABHINAV Y.",
-    "email": "peabxxxx@gmail.com",
-    "phone": "+91  xxxx xxxxxx",
-    "github_url": "https://github.com/abhinavyadav11",
-    "linkedin_url": "http://linkedin.com/in/abhinav-yadav-70088a252",
-    "location": "Remote",
-    "location_coordinates": null,
-    "work_experience": [
-      {
-        "company": "InventoHub",
-        "title": "AI/ML Intern",
-        "start_date": "2025-01-01",
-        "end_date": "",
-        "is_current": true,
-        "location": "Remote",
-        "location_coordinates": null,
-        "responsibilities": [
-          "Built a data extraction pipeline using BeautifulSoup, Selenium, and SQL to collect and preprocess data for LLM training.",
-          "Optimized data storage and retrieval for efficient model fine-tuning and real-world AI applications.",
-          "Collaborated with teams to integrate automated pipelines into production AI systems."
-        ],
-        "skills": [
-          "BeautifulSoup",
-          "Selenium",
-          "SQL"
-        ]
-      },
-      {
-        "company": "Aladdin Creative Studio",
-        "title": "Data Science Intern",
-        "start_date": "2024-09-01",
-        "end_date": "",
-        "is_current": true,
-        "location": "Noida, Uttar Pradesh",
-        "location_coordinates": {
-          "latitude": 28.571075,
-          "longitude": 77.32575
-        },
-        "responsibilities": [
-          "Implemented a gender classification model using ResNet152V2 with 92 Percent accuracy and trained an age detection model using VGG16 after extensive data cleaning.",
-          "Utilized TensorFlow\u2019s AUTOTUNE for efficient processing and is now integrating both models for simultaneous predictions."
-        ],
-        "skills": [
-          "ResNet152V2",
-          "VGG16",
-          "TensorFlow"
-        ]
-      }
-    ],
-    "projects": [
-      {
-        "name": "Driver Alertness Detection with Eye and Face Detection",
-        "description": "Implemented a driver alertness detection system using YOLO for face detection and VGG16 for eye detection, achieving real-time monitoring of the driver\u2019s eye state (open or closed).",
-        "skills": [
-          "YOLO",
-          "VGG16",
-          "TensorFlow",
-          "Keras",
-          "OpenCV",
-          "Streamlit"
-        ],
-        "url": ""
-      },
-      {
-        "name": "AI Data Analyst Agent",
-        "description": "Developed an AI-powered data analyst agent capable of processing various document types, including .doc, .txt, .xlsx, .csv, .pdf, and image files, to automate data analysis tasks.",
-        "skills": [
-          "NLP",
-          "Streamlit"
-        ],
-        "url": ""
-      }
-    ],
-    "total_we_months": 10,
-    "source_file": "#ABHINAV_YADAV_RESUME - Abhinav Yadav.pdf",
-    "file_hash": "0fa77f1f580a169fdd337fd96e1baf5b"
-  },
-  "7e8c": {
-    "name": "Sanju N.",
-    "email": "sanjxxxx@gmail.com",
-    "phone": "+91- xxxx xxxxxx",
-    "github_url": "https://github.com/sanjunivesh",
-    "linkedin_url": "https://www.linkedin.com/in/sanju-nivesh",
-    "location": "Navi Mumbai",
-    "location_coordinates": {
-      "latitude": 19.030146,
-      "longitude": 73.02022
-    },
-    "work_experience": [
-      {
-        "company": "Career Infotech Solution",
-        "title": "Data Analyst",
-        "start_date": "2023-12-01",
-        "end_date": "",
-        "is_current": true,
-        "location": "Navi Mumbai",
-        "location_coordinates": {
-          "latitude": 19.030146,
-          "longitude": 73.02022
-        },
-        "responsibilities": [
-          "Utilized SQL and Python scripts (Pandas, NumPy) to generate user behavior analysis reports",
-          "Analyzed and visualized performance data using Python (Pandas, NumPy) and Excel",
-          "Developed interactive dashboards in PowerBI and Tableau",
-          "Developed automated data cleaning scripts using Python (Pandas, NumPy)"
-        ],
-        "skills": [
-          "SQL",
-          "Python",
-          "Pandas",
-          "NumPy",
-          "PowerBI",
-          "Tableau",
-          "Excel"
-        ]
-      },
-      {
-        "company": "Alambetter",
-        "title": "Data Science Internship Trainee",
-        "start_date": "2023-03-01",
-        "end_date": "2023-09-01",
-        "is_current": false,
-        "location": "Navi Mumbai",
-        "location_coordinates": {
-          "latitude": 19.030146,
-          "longitude": 73.02022
-        },
-        "responsibilities": [
-          "Worked with Python, NumPy, Pandas, Matplotlib, Seaborn, SQL, Excel, PowerBI, and Machine Learning"
-        ],
-        "skills": [
-          "Python",
-          "NumPy",
-          "Pandas",
-          "Matplotlib",
-          "Seaborn",
-          "SQL",
-          "Excel",
-          "PowerBI"
-        ]
-      }
-    ],
-    "projects": [
-      {
-        "name": "OEMS (Online Exam Management System)",
-        "description": "Built interactive dashboards in Power BI and Tableau for real-time user activity and system performance monitoring. Automated data cleaning and processing using Python, Pandas, and NumPy, improving efficiency and accuracy. Designed and optimized SQL queries for managing and analyzing exam and user data.",
-        "skills": [
-          "Power BI",
-          "Tableau",
-          "Python",
-          "Pandas",
-          "NumPy",
-          "SQL"
-        ],
-        "url": ""
-      },
-      {
-        "name": "UMS (User Management System)",
-        "description": "Developed SQL queries and Python scripts to analyze user behavior and generate reports. Built a predictive model for sales forecasting using Scikit-Learn, enhancing forecast accuracy and supporting strategic planning.",
-        "skills": [
-          "SQL",
-          "Python",
-          "Scikit-Learn"
-        ],
-        "url": ""
-      }
-    ],
-    "total_we_months": 22,
-    "source_file": "2Sanju-Nivesh - (Resume) (1) - Sanju Nivesh.pdf",
-    "file_hash": "7e8c5e7dfdff320004a20496c9e0a9b3"
-  },
   "9a8b": {
     "name": "Sonali P.",
     "email": "Sonaxxxx@gmail.com",
@@ -384,7 +212,7 @@
     "projects": [
       {
         "name": "Automated TikTok to YouTube System",
-        "description": "Build a system to automate downloading trending TikTok videos and uploading them to YouTube, keeping the original metadata. Pair this with a dashboard for monitoring, control, and video fetching settings.",
+        "description": "Build a system to automate downloading trending TikTok videos and uploading them to YouTube, keeping the original metadata.",
         "skills": [
           "Python",
           "Django REST Framework"
@@ -418,276 +246,9 @@
         "url": ""
       }
     ],
-    "total_we_months": 50,
+    "total_we_months": 51,
     "source_file": "1 ML Engineer Resume - Sonali Pulate.pdf",
     "file_hash": "9a8beeb7f9488867a0b335a741a7de0f"
-  },
-  "0f43": {
-    "name": "Navya P.",
-    "email": "navyxxxx@gmail.com",
-    "phone": "+91- xxxx xxxxxx",
-    "github_url": "https://github.com/navyasama",
-    "linkedin_url": "https://www.linkedin.com/in/navya-pant-[SSN]/",
-    "location": "",
-    "location_coordinates": null,
-    "work_experience": [
-      {
-        "company": "Prasunet Pvt. Ltd.",
-        "title": "Machine Learning Intern",
-        "start_date": "2023-01-01",
-        "end_date": "",
-        "is_current": true,
-        "location": "",
-        "location_coordinates": null,
-        "responsibilities": [
-          "Analyzed 10,000+ reviews using BERT and TextRank, achieving 89% summary accuracy and 76% faster insights vs. manual analysis.",
-          "Deployed model via FastAPI with sentiment-driven pros/cons extraction, boosting decision-making efficiency by 25% for e-commerce use cases."
-        ],
-        "skills": [
-          "Python",
-          "Hugging Face Transformers",
-          "spaCy",
-          "TextRank",
-          "FastAPI"
-        ]
-      }
-    ],
-    "projects": [
-      {
-        "name": "Self Driving Car",
-        "description": "Analyzed 21,000+ images using Pandas addressing class imbalances and improving augmentation strategies. Enhanced data quality by 20% with SAGAN, achieved 95% object detection accuracy using YOLOv9 and boosted detection performance by 18% with RCNN. Built an OpenCV & Pillow pipeline for preprocessing achieving 86.2% model accuracy & 0.64 val loss.",
-        "skills": [
-          "Pillow",
-          "OpenCV",
-          "YOLOv9",
-          "R-CNN",
-          "Pandas"
-        ],
-        "url": ""
-      },
-      {
-        "name": "Sales Forecasting and KPI Tracking System",
-        "description": "Gathered 500K+ records with 15% missing values using SQL and ETL processes, incorporating web-scraped data via Scrapy, and created interactive Tableau dashboards for sales, growth, and regional metrics. Integrated ARIMA-based ML models for predictive analytics, improving sales forecasting accuracy by 18% and enabling real-time KPI scorecards, boosting decision-making efficiency by 25%.",
-        "skills": [
-          "SQL",
-          "Scrapy",
-          "ML-ARIMA",
-          "Tableau"
-        ],
-        "url": ""
-      },
-      {
-        "name": "Traffik Trace",
-        "description": "Engineered a high-performance software solution to detect and flag drug trafficking activities across multiple social media platforms, processing thousands of data points daily. Scraped and processed over 10,000 social media posts daily using Apify, storing structured data in MongoDB for real-time analysis.",
-        "skills": [
-          "Apify",
-          "MongoDB",
-          "Express.js",
-          "Node.js",
-          "React.js",
-          "HTML"
-        ],
-        "url": ""
-      },
-      {
-        "name": "Gym Database Management System",
-        "description": "Developed a Gym Database Management System to address operational challenges at NSUT\u2019s gymnasium, automating manual data management and improving crowd control by 40%. Optimized inventory tracking and resource utilization, reducing administrative workload by 30% and improving membership tracking accuracy by 50%.",
-        "skills": [
-          "DBMS",
-          "XAMPP",
-          "PHP",
-          "Apache NetBeans IDE"
-        ],
-        "url": ""
-      }
-    ],
-    "total_we_months": 27,
-    "source_file": "2ND_UPDATE - NAVYA PANT.pdf",
-    "file_hash": "0f438205c6387282c4e951495b3f5d84"
-  },
-  "2589": {
-    "name": "Sai C.",
-    "email": "saisxxxx@gmail.com",
-    "phone": "+91  xxxx xxxxxx",
-    "github_url": "https://github.com/Santu0033",
-    "linkedin_url": "https://linkedin.com/in/sai-santosh-reddy-cherutanuri",
-    "location": "Hyderabad, India",
-    "location_coordinates": {
-      "latitude": 17.361362,
-      "longitude": 78.474525
-    },
-    "work_experience": [
-      {
-        "company": "INAORB Private Limited",
-        "title": "AI Specialist",
-        "start_date": "2024-08-01",
-        "end_date": "2024-10-01",
-        "is_current": false,
-        "location": "Hyderabad, India",
-        "location_coordinates": {
-          "latitude": 17.361362,
-          "longitude": 78.474525
-        },
-        "responsibilities": [
-          "Developing algorithms for education based projects"
-        ],
-        "skills": [
-          "Python",
-          "AI"
-        ]
-      },
-      {
-        "company": "Suvidha Mahila Mandal",
-        "title": "Machine Learning Engineer",
-        "start_date": "2023-08-01",
-        "end_date": "2023-09-01",
-        "is_current": false,
-        "location": "Mumbai/Hyderabad",
-        "location_coordinates": {
-          "latitude": 19.077793,
-          "longitude": 72.87872
-        },
-        "responsibilities": [
-          "Developed a text summarization AI model and create women empowerment and funding initiative"
-        ],
-        "skills": [
-          "Machine Learning",
-          "AI"
-        ]
-      },
-      {
-        "company": "Systemic Altruism & Ventures",
-        "title": "AI Flutter Developer",
-        "start_date": "2024-06-01",
-        "end_date": "2024-07-01",
-        "is_current": false,
-        "location": "USA \u2013 WFH",
-        "location_coordinates": null,
-        "responsibilities": [
-          "Worked on AI-driven mobile applications for social impact projects"
-        ],
-        "skills": [
-          "AI",
-          "Flutter"
-        ]
-      }
-    ],
-    "projects": [
-      {
-        "name": "AI-Based Tool to Assist Vehicles in Preventing Accidents",
-        "description": "Built an AI-powered safety device for two-wheelers using sensor-based obstacle detection for rocks, pits and sand. Implemented LED signaling and voice commands for real-time alerts.",
-        "skills": [
-          "AI",
-          "Sensor Technology"
-        ],
-        "url": ""
-      },
-      {
-        "name": "Updating of Newly Constructed Roads through Satellite Imagery",
-        "description": "Developed a model to detect and update newly constructed roads using satellite imagery. Leveraged GIS tools and Deep Learning for accurate mapping.",
-        "skills": [
-          "Deep Learning",
-          "GIS"
-        ],
-        "url": ""
-      },
-      {
-        "name": "Movie and Music Recommendation System",
-        "description": "Developed a recommendation system using Machine Learning techniques such as Collaborative Filtering and Content-Based Filtering.",
-        "skills": [
-          "Machine Learning",
-          "Python"
-        ],
-        "url": ""
-      },
-      {
-        "name": "Netflix Data Analysis",
-        "description": "Analyzed Netflix\u2019s dataset to understand viewing patterns and content trends.",
-        "skills": [
-          "Data Analysis",
-          "Python"
-        ],
-        "url": ""
-      }
-    ],
-    "total_we_months": 4,
-    "source_file": "5_6312059052608198274 - sai santosh reddy cherutanuri.pdf",
-    "file_hash": "25899044ac393034f79d00833e3ce97a"
-  },
-  "c6b0": {
-    "name": "Shivam M.",
-    "email": "assixxxx@gmail.com",
-    "phone": "+91  xxxx xxxxxx",
-    "github_url": "https://github.com/shivammishra22",
-    "linkedin_url": "https://linkedin.com/in/shivammishra24",
-    "location": "Noida, India",
-    "location_coordinates": {
-      "latitude": 28.571075,
-      "longitude": 77.32575
-    },
-    "work_experience": [
-      {
-        "company": "Innodata India Pvt. Lmt.",
-        "title": "Software Development Associate",
-        "start_date": "2024-10-01",
-        "end_date": "",
-        "is_current": true,
-        "location": "Noida, India",
-        "location_coordinates": {
-          "latitude": 28.571075,
-          "longitude": 77.32575
-        },
-        "responsibilities": [
-          "Developed a RAG-based AI system to enhance LLM responses by integrating real-time data retrieval from structured/unstructured sources.",
-          "Fine-tuned embedding models (BERT, OpenAI) and optimized vector databases (FAISS, Pinecone) for efficient semantic search, improving answer accuracy by 35%.",
-          "Deployed the pipeline using LangChain and LlamaIndex, reducing hallucinations in generated responses.",
-          "Led large-scale data labeling initiatives (text, images) for training computer vision and NLP models, improving dataset quality by 40%."
-        ],
-        "skills": [
-          "Python",
-          "Machine Learning",
-          "NLP",
-          "Deep Learning",
-          "Data Visualization"
-        ]
-      }
-    ],
-    "projects": [
-      {
-        "name": "Transforming Images Into Text",
-        "description": "Engineered an Image Captioning System using CNNs (InceptionV3) and RNNs (LSTM) with attention mechanisms, improving model efficiency by 20% via Transfer Learning (TL).",
-        "skills": [
-          "CNN",
-          "RNN",
-          "LSTM",
-          "TensorFlow"
-        ],
-        "url": ""
-      },
-      {
-        "name": "Prediction of Concrete Compressive Strength using Machine Learning",
-        "description": "Analyzed multiple ML algorithms (XGBoost, Random Forest, SVM, Gradient Boosting) to predict concrete strength using 1000+ samples with features like cement, fly ash, water, and aggregates.",
-        "skills": [
-          "XGBoost",
-          "Random Forest",
-          "SVM",
-          "Gradient Boosting"
-        ],
-        "url": ""
-      },
-      {
-        "name": "Crack Detection in Concrete Walls Using Transfer Learning Techniques",
-        "description": "Compared CNN architectures (ResNet50, VGG16, EfficientNet) for crack classification using a concrete crack image dataset.",
-        "skills": [
-          "CNN",
-          "Transfer Learning"
-        ],
-        "url": ""
-      }
-    ],
-    "total_we_months": 6,
-    "source_file": "001_resume_shivam - shivam mishra.pdf",
-    "file_hash": "c6b0a064e5fe6bbecb774e7c9ddea903"
   },
   "52a2": {
     "name": "Ankit A.",
@@ -784,5 +345,445 @@
     "total_we_months": 40,
     "source_file": "31031996_Ankit Anand_CV1 (1) - ankit anand.pdf",
     "file_hash": "52a2cf10a98ff676cdf634d0d6d80eb8"
+  },
+  "c6b0": {
+    "name": "Shivam M.",
+    "email": "assixxxx@gmail.com",
+    "phone": "+91  xxxx xxxxxx",
+    "github_url": "https://github.com/shivammishra22",
+    "linkedin_url": "https://linkedin.com/in/shivammishra24",
+    "location": "Noida, India",
+    "location_coordinates": {
+      "latitude": 28.571075,
+      "longitude": 77.32575
+    },
+    "work_experience": [
+      {
+        "company": "Innodata India Pvt. Lmt.",
+        "title": "Software Development Associate",
+        "start_date": "2024-10-01",
+        "end_date": "",
+        "is_current": true,
+        "location": "Noida, India",
+        "location_coordinates": {
+          "latitude": 28.571075,
+          "longitude": 77.32575
+        },
+        "responsibilities": [
+          "Developed a RAG-based AI system to enhance LLM responses by integrating real-time data retrieval from structured/unstructured sources.",
+          "Fine-tuned embedding models (BERT, OpenAI) and optimized vector databases (FAISS, Pinecone) for efficient semantic search, improving answer accuracy by 35%.",
+          "Deployed the pipeline using LangChain and LlamaIndex, reducing hallucinations in generated responses.",
+          "Led large-scale data labeling initiatives (text, images) for training computer vision and NLP models, improving dataset quality by 40%."
+        ],
+        "skills": [
+          "Python",
+          "Machine Learning",
+          "NLP",
+          "Deep Learning",
+          "Data Visualization"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "Transforming Images Into Text",
+        "description": "Engineered an Image Captioning System using CNNs (InceptionV3) and RNNs (LSTM) with attention mechanisms, improving model efficiency by 20% via Transfer Learning (TL).",
+        "skills": [
+          "CNN",
+          "RNN",
+          "LSTM",
+          "TensorFlow"
+        ],
+        "url": ""
+      },
+      {
+        "name": "Prediction of Concrete Compressive Strength using Machine Learning",
+        "description": "Analyzed multiple ML algorithms (XGBoost, Random Forest, SVM, Gradient Boosting) to predict concrete strength using 1000+ samples with features like cement, fly ash, water, and aggregates.",
+        "skills": [
+          "XGBoost",
+          "Random Forest",
+          "SVM",
+          "Gradient Boosting"
+        ],
+        "url": ""
+      },
+      {
+        "name": "Crack Detection in Concrete Walls Using Transfer Learning Techniques",
+        "description": "Compared CNN architectures (ResNet50, VGG16, EfficientNet) for crack classification using a concrete crack image dataset.",
+        "skills": [
+          "CNN",
+          "Transfer Learning"
+        ],
+        "url": ""
+      }
+    ],
+    "total_we_months": 7,
+    "source_file": "001_resume_shivam - shivam mishra.pdf",
+    "file_hash": "c6b0a064e5fe6bbecb774e7c9ddea903"
+  },
+  "2589": {
+    "name": "Sai C.",
+    "email": "saisxxxx@gmail.com",
+    "phone": "+91  xxxx xxxxxx",
+    "github_url": "https://github.com/Santu0033",
+    "linkedin_url": "https://linkedin.com/in/sai -santosh -reddy -cherutanuri",
+    "location": "Hyderabad, India",
+    "location_coordinates": {
+      "latitude": 17.361362,
+      "longitude": 78.474525
+    },
+    "work_experience": [
+      {
+        "company": "INAORB Private Limited",
+        "title": "AI Specialist",
+        "start_date": "2024-08-01",
+        "end_date": "2024-10-01",
+        "is_current": false,
+        "location": "Hyderabad, India",
+        "location_coordinates": {
+          "latitude": 17.361362,
+          "longitude": 78.474525
+        },
+        "responsibilities": [
+          "Developing algorithms for education based projects"
+        ],
+        "skills": [
+          "Python"
+        ]
+      },
+      {
+        "company": "Suvidha Mahila Mandal",
+        "title": "Machine Learning Engineer",
+        "start_date": "2023-08-01",
+        "end_date": "2023-09-01",
+        "is_current": false,
+        "location": "Mumbai/Hyderabad",
+        "location_coordinates": {
+          "latitude": 19.077793,
+          "longitude": 72.87872
+        },
+        "responsibilities": [
+          "Developed a text summarization AI model and create women empowerment and funding initiative"
+        ],
+        "skills": [
+          "Machine Learning"
+        ]
+      },
+      {
+        "company": "Systemic Altruism & Ventures",
+        "title": "AI Flutter Developer",
+        "start_date": "2024-06-01",
+        "end_date": "2024-07-01",
+        "is_current": false,
+        "location": "USA \u2013 WFH",
+        "location_coordinates": null,
+        "responsibilities": [
+          "Worked on AI-driven mobile applications for social impact projects"
+        ],
+        "skills": [
+          "AI"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "AI-Based Tool to Assist Vehicles in Preventing Accidents",
+        "description": "Built an AI-powered safety device for two-wheelers using sensor-based obstacle detection for rocks, pits and sand. Implemented LED signaling and voice commands for real-time alerts.",
+        "skills": [
+          "AI"
+        ],
+        "url": ""
+      },
+      {
+        "name": "Updating of Newly Constructed Roads through Satellite Imagery",
+        "description": "Developed a model to detect and update newly constructed roads using satellite imagery. Leveraged GIS tools and Deep Learning for accurate mapping.",
+        "skills": [
+          "Deep Learning"
+        ],
+        "url": ""
+      },
+      {
+        "name": "Movie and Music Recommendation System",
+        "description": "Developed a recommendation system using Machine Learning techniques such as Collaborative Filtering and Content-Based Filtering.",
+        "skills": [
+          "Machine Learning",
+          "Python"
+        ],
+        "url": ""
+      },
+      {
+        "name": "Netflix Data Analysis",
+        "description": "Analyzed Netflix\u2019s dataset to understand viewing patterns and content trends.",
+        "skills": [
+          "Data Analysis",
+          "Python"
+        ],
+        "url": ""
+      }
+    ],
+    "total_we_months": 4,
+    "source_file": "5_6312059052608198274 - sai santosh reddy cherutanuri.pdf",
+    "file_hash": "25899044ac393034f79d00833e3ce97a"
+  },
+  "0fa7": {
+    "name": "Abhinav Y.",
+    "email": "peabxxxx@gmail.com",
+    "phone": "+91  xxxx xxxxxx",
+    "github_url": "https://github.com/abhinavyadav11",
+    "linkedin_url": "http://linkedin.com/in/abhinav-yadav-70088a252",
+    "location": "Remote",
+    "location_coordinates": null,
+    "work_experience": [
+      {
+        "company": "InventoHub",
+        "title": "AI/ML Intern",
+        "start_date": "2025-01-01",
+        "end_date": "",
+        "is_current": true,
+        "location": "Remote",
+        "location_coordinates": null,
+        "responsibilities": [
+          "Built a data extraction pipeline using BeautifulSoup, Selenium, and SQL to collect and preprocess data for LLM training.",
+          "Optimized data storage and retrieval for efficient model fine-tuning and real-world AI applications.",
+          "Collaborated with teams to integrate automated pipelines into production AI systems."
+        ],
+        "skills": [
+          "BeautifulSoup",
+          "Selenium",
+          "SQL"
+        ]
+      },
+      {
+        "company": "Aladdin Creative Studio",
+        "title": "Data Science Intern",
+        "start_date": "2024-09-01",
+        "end_date": "",
+        "is_current": true,
+        "location": "Noida, Uttar Pradesh",
+        "location_coordinates": {
+          "latitude": 28.571075,
+          "longitude": 77.32575
+        },
+        "responsibilities": [
+          "Implemented a gender classification model using ResNet152V2 with 92 Percent accuracy and trained an age detection model using VGG16 after extensive data cleaning.",
+          "Utilized TensorFlow\u2019s AUTOTUNE for efficient processing and is now integrating both models for simultaneous predictions."
+        ],
+        "skills": [
+          "ResNet152V2",
+          "VGG16",
+          "TensorFlow"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "Driver Alertness Detection with Eye and Face Detection",
+        "description": "Implemented a driver alertness detection system using YOLO for face detection and VGG16 for eye detection, achieving real-time monitoring of the driver\u2019s eye state (open or closed). Integrated a system to trigger alerts when the driver\u2019s eyes remain closed for more than 3-5 seconds, enhancing safety and real-time responsiveness. Fine-tuned VGG16 for eye state detection and utilized dropout layers to prevent overfitting, ensuring robust performance in various scenarios. Built a Streamlit-based user interface for seamless deployment and real-time video processing, ensuring smooth integration for driver safety applications.",
+        "skills": [
+          "YOLO",
+          "VGG16",
+          "TensorFlow",
+          "Keras",
+          "OpenCV",
+          "Streamlit"
+        ],
+        "url": ""
+      },
+      {
+        "name": "AI Data Analyst Agent",
+        "description": "Developed an AI-powered data analyst agent capable of processing various document types, including .doc, .txt, .xlsx, .csv, .pdf, and image files, to automate data analysis tasks. Integrated API from Groq for backend processing, enabling the agent to answer questions, generate visualizations, and extract insights from structured and unstructured data. Implemented NLP techniques for text extraction and data interpretation, ensuring context-aware analysis and accurate responses based on the input data. Deployed the agent on Streamlit to provide a seamless and interactive user interface for real-time data analysis and visualization.",
+        "skills": [
+          "NLP",
+          "Streamlit"
+        ],
+        "url": ""
+      }
+    ],
+    "total_we_months": 12,
+    "source_file": "#ABHINAV_YADAV_RESUME - Abhinav Yadav.pdf",
+    "file_hash": "0fa77f1f580a169fdd337fd96e1baf5b"
+  },
+  "7e8c": {
+    "name": "Sanju N.",
+    "email": "sanjxxxx@gmail.com",
+    "phone": "+91- xxxx xxxxxx",
+    "github_url": "https://github.com/sanjunivesh",
+    "linkedin_url": "https://www.linkedin.com/in/sanju-nivesh",
+    "location": "Navi Mumbai",
+    "location_coordinates": {
+      "latitude": 19.030146,
+      "longitude": 73.02022
+    },
+    "work_experience": [
+      {
+        "company": "Career Infotech Solution",
+        "title": "Data Analyst",
+        "start_date": "2023-12-01",
+        "end_date": "",
+        "is_current": true,
+        "location": "Navi Mumbai",
+        "location_coordinates": {
+          "latitude": 19.030146,
+          "longitude": 73.02022
+        },
+        "responsibilities": [
+          "Utilized SQL and Python scripts (Pandas, NumPy) to generate user behavior analysis reports",
+          "Analyzed and visualized performance data using Python (Pandas, NumPy) and Excel",
+          "Developed interactive dashboards in PowerBI and Tableau",
+          "Developed automated data cleaning scripts using Python (Pandas, NumPy)"
+        ],
+        "skills": [
+          "SQL",
+          "Python",
+          "Pandas",
+          "NumPy",
+          "PowerBI",
+          "Tableau",
+          "Excel"
+        ]
+      },
+      {
+        "company": "Alambetter",
+        "title": "Data Science Internship Trainee",
+        "start_date": "2023-03-01",
+        "end_date": "2023-09-01",
+        "is_current": false,
+        "location": "Navi Mumbai",
+        "location_coordinates": {
+          "latitude": 19.030146,
+          "longitude": 73.02022
+        },
+        "responsibilities": [
+          "Worked with Python, NumPy, Pandas, Matplotlib, Seaborn, SQL, Excel, PowerBI, and Machine Learning"
+        ],
+        "skills": [
+          "Python",
+          "NumPy",
+          "Pandas",
+          "Matplotlib",
+          "Seaborn",
+          "SQL",
+          "Excel",
+          "PowerBI"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "OEMS (Online Exam Management System)",
+        "description": "Built interactive dashboards in Power BI and Tableau for real-time user activity and system performance monitoring. Automated data cleaning and processing using Python, Pandas, and NumPy.",
+        "skills": [
+          "PowerBI",
+          "Tableau",
+          "Python",
+          "Pandas",
+          "NumPy",
+          "SQL"
+        ],
+        "url": ""
+      },
+      {
+        "name": "UMS (User Management System)",
+        "description": "Developed SQL queries and Python scripts to analyze user behavior and generate reports. Built a predictive model for sales forecasting using Scikit-Learn.",
+        "skills": [
+          "SQL",
+          "Python",
+          "Scikit-Learn"
+        ],
+        "url": ""
+      }
+    ],
+    "total_we_months": 23,
+    "source_file": "2Sanju-Nivesh - (Resume) (1) - Sanju Nivesh.pdf",
+    "file_hash": "7e8c5e7dfdff320004a20496c9e0a9b3"
+  },
+  "0f43": {
+    "name": "Navya P.",
+    "email": "navyxxxx@gmail.com",
+    "phone": "+91- xxxx xxxxxx",
+    "github_url": "https://github.com/navyasama",
+    "linkedin_url": "https://www.linkedin.com/in/navya-pant-[SSN]/",
+    "location": "Delhi, India",
+    "location_coordinates": {
+      "latitude": 28.613895,
+      "longitude": 77.209006
+    },
+    "work_experience": [
+      {
+        "company": "Prasunet Pvt. Ltd.",
+        "title": "Machine Learning Intern",
+        "start_date": "2023-01-01",
+        "end_date": "",
+        "is_current": true,
+        "location": "Delhi, India",
+        "location_coordinates": {
+          "latitude": 28.613895,
+          "longitude": 77.209006
+        },
+        "responsibilities": [
+          "Analyzed 10,000+ reviews using BERT and TextRank, achieving 89% summary accuracy and 76% faster insights vs. manual analysis.",
+          "Deployed model via FastAPI with sentiment-driven pros/cons extraction, boosting decision-making efficiency by 25% for e-commerce use cases."
+        ],
+        "skills": [
+          "Python",
+          "Hugging Face Transformers",
+          "spaCy",
+          "TextRank",
+          "FastAPI"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "Self Driving Car",
+        "description": "Analyzed 21,000+ images using Pandas addressing class imbalances and improving augmentation strategies. Enhanced data quality by 20% with SAGAN, achieved 95% object detection accuracy using YOLOv9 and boosted detection performance by 18% with RCNN. Built an OpenCV & Pillow pipeline for preprocessing achieving 86.2% model accuracy & 0.64 val loss.",
+        "skills": [
+          "Pillow",
+          "OpenCV",
+          "YOLOv9",
+          "R-CNN",
+          "Pandas"
+        ],
+        "url": ""
+      },
+      {
+        "name": "Sales Forecasting and KPI Tracking System",
+        "description": "Gathered 500K+ records with 15% missing values using SQL and ETL processes, incorporating web-scraped data via Scrapy, and created interactive Tableau dashboards for sales, growth, and regional metrics. Integrated ARIMA-based ML models for predictive analytics, improving sales forecasting accuracy by 18% and enabling real-time KPI scorecards, boosting decision-making efficiency by 25%.",
+        "skills": [
+          "SQL",
+          "Scrapy",
+          "ML-ARIMA",
+          "Tableau"
+        ],
+        "url": ""
+      },
+      {
+        "name": "Traffik Trace",
+        "description": "Engineered a high-performance software solution to detect and flag drug trafficking activities across multiple social media platforms, processing thousands of data points daily. Scraped and processed over 10,000 social media posts daily using Apify, storing structured data in MongoDB for real-time analysis.",
+        "skills": [
+          "Apify",
+          "MongoDB",
+          "Express.js",
+          "Node.js",
+          "React.js",
+          "HTML"
+        ],
+        "url": ""
+      },
+      {
+        "name": "Gym Database Management System",
+        "description": "Developed a Gym Database Management System to address operational challenges at NSUT\u2019s gymnasium, automating manual data management and improving crowd control by 40%. Optimized inventory tracking and resource utilization, reducing administrative workload by 30% and improving membership tracking accuracy by 50%.",
+        "skills": [
+          "DBMS",
+          "XAMPP",
+          "PHP",
+          "Apache NetBeans IDE"
+        ],
+        "url": ""
+      }
+    ],
+    "total_we_months": 28,
+    "source_file": "2ND_UPDATE - NAVYA PANT.pdf",
+    "file_hash": "0f438205c6387282c4e951495b3f5d84"
   }
 }
